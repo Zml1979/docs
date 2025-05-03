@@ -7,3 +7,5 @@
 [Qase](https://app.qase.io/project/G10?author=342&previewMode=side&suite=81)
 
 [Тест-кейс в формате PDF](https://github.com/user-attachments/files/20025021/G10-2025-05-04.pdf)
+
+### Отчеты о дефекте для регистрации, логина и каталога
